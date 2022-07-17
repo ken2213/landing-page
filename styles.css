@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 0 70px;
+}
+
+/*random shit, delete this tommorrow */
+header h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
